@@ -8,7 +8,7 @@ grandes adicciones, buscamos analizar la cantidad de estudiantes que lo consumen
 
 ¿en que grado de nivel educativo se consume mas esta sustancia?
 
-## Elentos de datos necesarios: 
+## Elementos de datos necesarios: 
 Analisis de todos los niveles educativos
 Rango de edades 
 Tiempo de consumo
