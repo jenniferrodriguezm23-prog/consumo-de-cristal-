@@ -39,8 +39,11 @@ Tipo de consumo (si es ocasional, frecuente, diario, etc.)
 
 
 http://www.cij.gob.mx/DrogasInformate/metanfetaminas.html
+
 https://montefenix.org.mx/sintomas-del-cristal/
+
 https://nida.nih.gov/es/areas-de-investigacion/metanfetamina
+
 https://www.mayoclinic.org/es/healthy-lifestyle/tween-and-teen-health/in-depth/teen-drug-abuse/art-20045921
 
 
