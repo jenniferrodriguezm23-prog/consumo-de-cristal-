@@ -1,13 +1,6 @@
 # consumo-de-cristal-
 
 
-
-<p align="center">
-  <a href="https://github.com/MelissaRodriguez968/El-uso-del-celular-en-la-vida-diaria/blob/main/celulares.jpg">
-    Ver imagen de celulares
-  </a>
-</p>
-
 ## Justificación
 
 <p align="justify">
