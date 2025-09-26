@@ -1,20 +1,55 @@
 # consumo-de-cristal-
-## Descripcion
 
-Los jovenes de hoy en dia consumen sustancias dañinas especificamente el cristal, esta droga se ha hecho famosa entre los jovenes  generando
-grandes adicciones, buscamos analizar la cantidad de estudiantes que lo consumen, rango de edades, el tiempo que llevan consumiendo 
 
-## Pregunta de investigacion: 
+
+<p align="center">
+  <a href="https://github.com/MelissaRodriguez968/El-uso-del-celular-en-la-vida-diaria/blob/main/celulares.jpg">
+    Ver imagen de celulares
+  </a>
+</p>
+
+## Justificación
+
+<p align="justify">
+</p>
+
+
+## TEMA: CONSUMO DE CRISTAL
+
+## DEFINICION DEL PROYECTO:
+
+Hoy en día muchos jóvenes están consumiendo sustancias dañinas, y una de las más comunes es el cristal. Esta droga se ha vuelto muy popular entre los jóvenes y ha causado muchas adicciones, afectando tanto su salud como su vida diaria.
+
+Con este proyecto queremos analizar qué tanto se está consumiendo el cristal entre estudiantes, en qué edades es más común, cuánto tiempo llevan consumiendo y en qué niveles educativos hay más casos. La idea es tener un panorama más claro sobre esta situación para entender mejor lo que está pasando y ver cómo se podría prevenir o reducir este problema.
+
+
+## PREGUNTA A RESPONDER CON ANALISIS DE DATOS:
 
 ¿en que grado de nivel educativo se consume mas esta sustancia?
 
-## Elementos de datos necesarios: 
-Analisis de todos los niveles educativos
-Rango de edades 
-Tiempo de consumo
-Tipo de consumo 
 
-## Resultado esperado:
+## LOS ELEMENTOS DE DATOS NECESARIOS: 
 
-Con este analisis se espera saber en que grado de nivel educativo se consume mas el cristal y tambien identificaremos las edades mas comunes 
-de los estudiantes y el impacto que tiene o seguira teniendo en un futuro.
+1.Datos de todos los niveles educativos (secundaria, prepa, universidad, etc.)
+
+2.Rango de edades de los estudiantes
+
+3.Tiempo que llevan consumiendo
+
+Tipo de consumo (si es ocasional, frecuente, diario, etc.)
+
+
+## FUENTES DE INFORMACION:
+
+
+http://www.cij.gob.mx/DrogasInformate/metanfetaminas.html
+https://montefenix.org.mx/sintomas-del-cristal/
+https://nida.nih.gov/es/areas-de-investigacion/metanfetamina
+https://www.mayoclinic.org/es/healthy-lifestyle/tween-and-teen-health/in-depth/teen-drug-abuse/art-20045921
+
+
+## OBJETIVO:
+
+Con este análisis buscamos saber en qué grado escolar se consume más el cristal. También queremos identificar las edades más comunes de los estudiantes que lo consumen y entender el impacto que tiene esta droga tanto en su presente como en su futuro.
+
+Este trabajo puede ayudar a crear más conciencia sobre este tema y tal vez a encontrar formas de prevenir que más jóvenes caigan en este tipo de adicciones.
