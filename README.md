@@ -1,4 +1,4 @@
-# CONSUMO DE CRISTAL
+# CONSUMO-DE-CRISTAL
 
 <p align="center">
   <img src="https://github.com/jenniferrodriguezm23-prog/consumo-de-cristal-/blob/main/adiccion-a-la-metanfetamina.webp" width="50%">
